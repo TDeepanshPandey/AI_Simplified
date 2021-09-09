@@ -40,7 +40,6 @@ yes | pip install transformers
 yes | pip install neo4j==1.7.2 
 yes | pip install scikit-learn==0.21.2 
 yes | pip install ijson 
-yes | pip install torch==1.6.0 # while using models offline
 yes | conda install -c anaconda cudatoolkit=10.1
 
 ############### CUDA Setup to 10.1 
