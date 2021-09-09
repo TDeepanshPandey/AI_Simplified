@@ -21,6 +21,6 @@ echo -e "\n\n\n Pip Packages Install Complete \n\n\n"
 
 #####
 end=`date +%s`
-echo "Setup Complete"
+echo " Setup Complete"
 runtime=$((end-start))
-echo -e "\n\n\nTotal running time in minutes : $(($runtime/60)) \n\n\n"
+echo -e "\n\n\n Total running time : $(($runtime/60)) mins\n\n\n"
