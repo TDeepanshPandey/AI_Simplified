@@ -1,3 +1,5 @@
+![Views](https://img.shields.io/youtube/channel/views/UCtlQgM6FwSKVk_qkdCv9xZA)
+
 # AI Simplified Youtube Channel Repository
  
  ![AI_SIMPLIFIED_CHANNEL_LOGO](https://github.com/TDeepanshPandey/AI_Simplified/blob/main/channel_logo.PNG)
